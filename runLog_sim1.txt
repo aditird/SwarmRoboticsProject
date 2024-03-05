@@ -1,0 +1,73 @@
+Calculating min dist to any object for Robots
+Plotting initial positions in init()
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 0.0, 0.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 0.0, 1.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 0.0, 2.0
+gp.next_x1, gp.next_y1 = 0.0, 2.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 1.0, 3.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 2.0, 4.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 3.0, 5.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 4.0, 6.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 5.0, 7.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 6.0, 8.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 7.0, 9.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 8.0, 10.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 9.0, 11.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 10.0, 12.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 11.0, 13.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 12.0, 14.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 13.0, 15.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 14.0, 16.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 15.0, 17.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 16.0, 18.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 17.0, 19.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 18.0, 20.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 19.0, 21.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 20.0, 22.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 21.0, 23.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 21.0, 24.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 21.0, 25.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 21.0, 26.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 22.0, 27.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 23.0, 28.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 24.0, 29.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 25.0, 29.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 26.0, 29.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 27.0, 29.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 28.0, 29.0
+Inside robot_plotting()
+gp.next_x1, gp.next_y1 = 29.0, 29.0
